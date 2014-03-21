@@ -20,7 +20,8 @@ set softtabstop=3
 set autoindent shiftwidth=3
 set expandtab
 set backspace=indent,eol,start
-
+set lines=40 columns=118
+set guifont=Courier\ New:h15:b
 set smartcase
 set incsearch
 set hlsearch
